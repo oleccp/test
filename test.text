@@ -5,14 +5,18 @@ PC4
 
 mac1
 mac2
-<<<<<<< HEAD
 mac3
-=======
 
 
 PC1
 PC2
+<<<<<<< HEAD
 >>>>>>> 61f6c66e814a78cce115195dbb0651414ccf4c89
 
 
 Mac5
+=======
+
+
+PC3
+>>>>>>> 3b7b845ab5b9f9c679546bd75e694ad13702835d
